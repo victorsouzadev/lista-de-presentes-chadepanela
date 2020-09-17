@@ -1,4 +1,4 @@
-# lista-de-presentes-chadepanela
+# Lista de Presentes para o Chá de Panela
 Uma página simples com o objetivo de listar os presentes de um chá de panela.
 
 <p align="center">
