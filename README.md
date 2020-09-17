@@ -30,10 +30,11 @@ Esta aplicação possui as seguintes ferramentas e bibliotecas:
 
 1. Clonar o repositório com `git clone https://github.com/victorsouzadev/lista-de-presentes-chadepanela.git` ou `git clone git@github.com:victorsouzadev/lista-de-presentes-chadepanela.git`
 2. Entrar no diretório do projeto:`cd lista-de-presentes-chadepanela/`<br />
-3. Rodar `yarn install` para instalar as dependências. <br />
-4. Rodar `yarn start` para executar o projeto.
-5. Em `src/Firebase.js` deve ser importado a configuração fornecida pelo **Firebase** para realizar a conexão com o banco. 
+3. Em `src/Firebase.js` deve ser importado a configuração fornecida pelo **Firebase** para realizar a conexão com o banco. 
+4. Rodar `yarn install` para instalar as dependências. <br />
+5. Rodar `yarn start` para executar o projeto.
+
 
 
 ## Observações 
-1. Em `src/App.js` há uma função para realizar o cadastro da lista de presentes, isto é, a aplicação tem semente o objetivo de mostrar umas lista para que os convidados possa manifestar interesse em dar um presente, portando não foi desenvolvido uma interface para o cadastro de itens.
+1. Em `src/App.js` há uma função para realizar o cadastro da lista de presentes, isto é, a aplicação tem somente o objetivo de mostrar umas lista para que os convidados possa manifestar interesse em dar um presente, portando não foi desenvolvido uma interface para o cadastro de itens.
